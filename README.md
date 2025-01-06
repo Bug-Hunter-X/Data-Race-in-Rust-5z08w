@@ -1,0 +1,1 @@
+This repository demonstrates a common data race bug in Rust and its solution.  The `bug.rs` file contains code that causes a data race. The `bugSolution.rs` file shows how to fix it using proper borrowing techniques.
